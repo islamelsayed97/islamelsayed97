@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Islam Elsayed</h1>
 <h3 align="center">A passionate Data Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Data Engineering, Cloud Computing**
+- I’m currently working as **Data Engineer** @ [CashCall](http://www.cashcall.net)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T_SLS1ugejmkTTXXMQbUkGKImJySmjY-/view?usp=sharing)
+
+- 🌱 I’m currently learning **Data Engineering, Cloud Computing**
 
 - 📫 How to reach me **Islam.Elsayed101@gmail.com**
 
